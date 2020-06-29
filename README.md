@@ -13,7 +13,7 @@ $ echo "include seoul256.conf" >> ~/.config/kitty/kitty.conf
 
 Then reload kitty for the config to take affect.
 
-Alternatively copy paste `dracula.conf` directly into `kitty.conf`.
+Alternatively copy paste `seoul256.conf` directly into `kitty.conf`.
 
 ## License
 
