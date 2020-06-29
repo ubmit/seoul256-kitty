@@ -2,7 +2,7 @@
 
 A port of [seoul256](https://github.com/junegunn/seoul256.vim) color scheme to [kitty](https://github.com/kovidgoyal/kitty).
 
-![Color test](./colortest.png)
+![Color test](./colortest-preview.png)
 
 ## Installation
 
