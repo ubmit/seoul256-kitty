@@ -11,7 +11,7 @@ $ cp seoul256.conf diff.conf ~/.config/kitty/
 $ echo "include seoul256.conf" >> ~/.config/kitty/kitty.conf
 ```
 
-Then reload kitty for the config to take affect.
+Then reload kitty for the config to take effect.
 
 Alternatively copy paste `seoul256.conf` directly into `kitty.conf`.
 
