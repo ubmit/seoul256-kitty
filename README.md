@@ -7,7 +7,7 @@ A port of [seoul256](https://github.com/junegunn/seoul256.vim) color scheme to [
 ## Installation
 
 ```
-$ cp seoul256.conf diff.conf ~/.config/kitty/
+$ cp seoul256.conf ~/.config/kitty/
 $ echo "include seoul256.conf" >> ~/.config/kitty/kitty.conf
 ```
 
